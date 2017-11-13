@@ -15,7 +15,7 @@ Start "dummy node"
 ```
 cd node
 lein run
-``
+```
 
 Start "active node"
 
